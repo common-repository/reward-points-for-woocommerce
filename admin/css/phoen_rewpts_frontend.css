@@ -1,0 +1,52 @@
+.phoen_rewpts_pts_link_div {
+					
+	display: inline-block;
+	padding:20px;	
+}
+.phoen_rewpts_redeem_message_on_cart
+{
+	display: inline-block;
+	
+}
+.phoen_rewpts_reward_message_on_cart{
+	
+	display: inline-block;
+}
+
+/*8 august */
+.phoen_rewpts_pts_link_div_main .phoen_rewpts_pts_link_div.cart_apply_btn, .phoen_rewpts_pts_link_div.cart_apply_btn {
+    width: 62%;
+    margin: 15px 19% 0 19%;
+}
+.phoen_rewpts_pts_link_div_main .phoen_rewpts_pts_link_div.cart_apply_btn input.phoen_edit_points_input , .phoen_rewpts_pts_link_div.cart_apply_btn input.phoen_edit_points_input{
+    width: 181px;
+}
+
+.woocommerce-cart .phoen_rewpts_pts_link_div.cart_apply_btn {
+    width: 64%;
+    margin: 15px auto auto;
+}
+.woocommerce-cart .phoen_rewpts_pts_link_div.cart_apply_btn input.phoen_edit_points_input {
+    width: 209px;
+}
+
+.phoen_rewpts_pts_link_div.cart_apply_btn input[type="submit"]:active, .phoen_rewpts_pts_link_div.cart_apply_btn input[type="submit"]:focus {
+    font-size: 100%;
+    margin: 0;
+    line-height: 1;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+    overflow: visible;
+    padding: .618em 1em!important;
+    font-weight: 700;
+    border-radius: 3px;
+    left: auto;
+    color: #515151;
+    background-color: #ebe9eb;
+    border: 0!important;
+    display: inline-block;
+    background-image: none!important;
+    box-shadow: none;
+    text-shadow: none;
+}
